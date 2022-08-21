@@ -1,3 +1,5 @@
+name: daily-metrics
+
 on:
   workflow_dispatch:
   push:
