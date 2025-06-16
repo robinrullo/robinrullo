@@ -7,13 +7,7 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://api.daily.dev/get?r=rrullo" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/robinrullo/robinrullo/devcard/devcard.svg"
-    />
-  </a>
+  <a href="https://app.daily.dev/rrullo"><img src="https://api.daily.dev/devcards/v2/Xw4bsP2RkGSzWhnoLp47u.png?r=ynx&type=default" width="356" alt="Robin RULLO's Dev Card"/></a>
 </div>
 
 ![Metrics](https://raw.githubusercontent.com/robinrullo/robinrullo/github-metrics/github-metrics.svg)
